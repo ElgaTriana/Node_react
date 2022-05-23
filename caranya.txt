@@ -1,0 +1,13 @@
+1. npm init -y (Untuk membuat package.json)
+2. npm install express mysql2 sequelize cors (install express mysql sequelize dan cors)
+3. npm install --save-dev nodemon (install nodemon)
+4. tambahkan script "type": "module", di package.json
+5. untuk memastikan backend sudah jalan ketikan 'nodemon index di terminal'
+
+Jika tidak ada error maka backend sudah berhasil dibuat
+
+
+1. Membuat frontend dengan react 
+2. npx create-react-app frontend di terminal
+3. setelah itu masuk ke terminal dan cd frontend, ketikan npm install react-router-dom axios bulma
+4. jika sudah terinstal ketikan npm start
